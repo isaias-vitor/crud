@@ -1,0 +1,7 @@
+com/mycompany/crud/User.class
+com/mycompany/crud/UserDao.class
+com/mycompany/crud/Crud.class
+com/mycompany/crud/Dao.class
+com/mycompany/crud/Entity.class
+com/mycompany/crud/DbConnection.class
+com/mycompany/crud/IDao.class
